@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\bin\Debug\netcoreapp3.1\Aula19CodingDojo.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\bin\Debug\netcoreapp3.1\Aula19CodingDojo.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\bin\Debug\netcoreapp3.1\Aula19CodingDojo.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\bin\Debug\netcoreapp3.1\Aula19CodingDojo.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\bin\Debug\netcoreapp3.1\Aula19CodingDojo.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\bin\Debug\netcoreapp3.1\Aula19CodingDojo.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula19CodingDojo\obj\Debug\netcoreapp3.1\Aula19CodingDojo.genruntimeconfig.cache
